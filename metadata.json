@@ -1,0 +1,5 @@
+{
+  "name": "두더지 잡기",
+  "description": "A classic whack-a-mole game. Test your reflexes!",
+  "requestFramePermissions": []
+}
